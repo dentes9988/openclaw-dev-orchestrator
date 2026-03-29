@@ -1,5 +1,7 @@
 # OpenClaw Dev Orchestrator
 
+[中文说明](./README.zh-CN.md)
+
 An OpenClaw skill for routing software delivery work through a Claude Code first workflow, with Codex used only as a fallback or second-opinion pass.
 
 ## What It Does
