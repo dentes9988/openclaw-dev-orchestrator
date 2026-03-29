@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Dev Orchestrator"
+  short_description: "Dispatch dev work to Claude and Codex"
+  default_prompt: "Use $openclaw-dev-orchestrator to coordinate coding, testing, deployment, and notifications through OpenClaw."
